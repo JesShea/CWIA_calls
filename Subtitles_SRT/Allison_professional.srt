@@ -1,0 +1,353 @@
+1
+00:00:05,320 --> 00:00:08,320
+Hi Allison, thanks for being with us today so we can
+
+2
+00:00:08,320 --> 00:00:11,320
+get to know a little bit more about your role with Porter Airlines.
+
+3
+00:00:11,320 --> 00:00:14,320
+Allison: Good morning
+
+4
+00:00:14,320 --> 00:00:17,320
+Iris: To start, could you talk a little bit about your position?
+
+5
+00:00:17,320 --> 00:00:20,320
+Allison: Absolutely, I am currently the Director of 
+
+6
+00:00:20,320 --> 00:00:23,320
+System Operation Control, also known as SOC. 
+
+7
+00:00:23,320 --> 00:00:26,320
+My day to day responsibilities kind of really depend 
+
+8
+00:00:26,320 --> 00:00:29,320
+on how the airline is operating in the day.
+
+9
+00:00:29,320 --> 00:00:32,320
+So if we had a blue skies across the network you know, I'm with 
+
+10
+00:00:32,320 --> 00:00:35,320
+my management team working on technology and
+
+11
+00:00:35,320 --> 00:00:38,320
+process improvement, communication, those types of things. 
+
+12
+00:00:38,320 --> 00:00:41,320
+But, if there are resource shortages or weather challenges, 
+
+13
+00:00:41,320 --> 00:00:44,320
+it's all hands on deck in that Ops Center.
+
+14
+00:00:44,320 --> 00:00:49,320
+So it can be a little challenging at times and often your priorities 
+
+15
+00:00:49,320 --> 00:00:52,920
+are rearranged for you at a moments notice.
+
+16
+00:00:52,920 --> 00:00:55,920
+You know, you need to adapt, but it's certainly very exciting 
+
+17
+00:00:55,920 --> 00:00:58,920
+and no day is ever the same.
+
+18
+00:00:58,920 --> 00:01:01,920
+Iris: And how did you move into your role?
+
+19
+00:01:01,920 --> 00:01:04,920
+Allison: I came to Porter Airlines about 7 years ago 
+
+20
+00:01:04,920 --> 00:01:07,920
+as a Duty Officer. So that position is really the point person
+
+21
+00:01:07,920 --> 00:01:10,960
+in the day to day operation and it gave me a chance to learn 
+
+22
+00:01:10,960 --> 00:01:15,280
+Porter's operation and also kind of exercise my decision making skills 
+
+23
+00:01:15,280 --> 00:01:19,840
+with, you know, a new business. And then after 3 years I was promoted
+
+24
+00:01:19,840 --> 00:01:24,480
+to the manager of SOCC and I've been in my most recent role for 3 years.
+
+25
+00:01:24,480 --> 00:01:27,960
+A little bit of luck, a little of bit hard work and I've been fortunate
+
+26
+00:01:27,960 --> 00:01:30,960
+to move up quite quickly.
+
+27
+00:01:31,000 --> 00:01:34,000
+Iris: That's great, sometimes it's better to be lucky than good.
+
+28
+00:01:34,000 --> 00:01:37,000
+So you manage a team, I'm curious, how big is the team and 
+
+29
+00:01:37,000 --> 00:01:40,000
+what qualities do you look for when hiring?
+
+30
+00:01:40,000 --> 00:01:46,000
+Allison: I have a team of about 55 in various positions. All different 
+
+31
+00:01:46,000 --> 00:01:50,440
+types of qualifications but if I were kind of to put everything 
+
+32
+00:01:50,440 --> 00:01:53,440
+into one bucket- to kind of come into the operations centre.
+
+33
+00:01:53,440 --> 00:01:56,440
+you certainly need to have some sort of basic aviation background 
+
+34
+00:01:56,440 --> 00:02:01,320
+And the learning curve is quite sharp even once you're in the op centre.
+
+35
+00:02:01,320 --> 00:02:04,320
+But you do need to have a you know a good comprehension 
+
+36
+00:02:04,320 --> 00:02:07,320
+of technology, you push a lot of buttons in SOCC- pun intended,
+
+37
+00:02:07,320 --> 00:02:14,520
+and you know, you need to be able to multi-task, make decisions
+
+38
+00:02:14,520 --> 00:02:17,520
+and you have a really high self standard and pride in the work 
+
+39
+00:02:17,520 --> 00:02:20,520
+that you're delivering.
+
+40
+00:02:20,520 --> 00:02:23,520
+And you need to care- not only about the people within the business,
+
+41
+00:02:23,520 --> 00:02:26,520
+but also our passengers.
+
+42
+00:02:26,520 --> 00:02:28,600
+Iris: What would you say are some of 
+
+43
+00:02:28,600 --> 00:02:31,080
+the challenges that you faced in your career?
+
+44
+00:02:31,080 --> 00:02:34,080
+Allison: You know, I would get to those junctures in my career,
+
+45
+00:02:34,080 --> 00:02:37,080
+when opportunities would come up and you really have to decide 
+
+46
+00:02:37,080 --> 00:02:40,080
+what you have to take...
+
+47
+00:02:40,080 --> 00:02:43,080
+And I would feel extremely isolated and really not know who 
+
+48
+00:02:43,080 --> 00:02:46,080
+to turn to for support in my immediate community and family.
+
+49
+00:02:46,080 --> 00:02:51,040
+I didn't really have anybody that had been in aviation 
+
+50
+00:02:51,040 --> 00:02:55,720
+or business the way that I am so, I think that's why mentorship 
+
+51
+00:02:55,720 --> 00:02:58,720
+is just so important. It can be so difficult to maneuver through
+
+52
+00:02:58,720 --> 00:03:01,720
+those crossroads and you know, it would have been nice to 
+
+53
+00:03:01,720 --> 00:03:04,720
+maybe have a little bit of guidance and helping hand. 
+
+54
+00:03:04,720 --> 00:03:07,720
+Iris: What would you say is the coolest thing you got to do in your role?
+
+55
+00:03:07,720 --> 00:03:10,720
+Allison: Oh, my job is so cool! 
+
+56
+00:03:10,720 --> 00:03:13,720
+I get to do puzzles all day long, so I even have one that 
+
+57
+00:03:13,720 --> 00:03:16,720
+looks like Tetris, if you're old enough to get that reference...
+
+58
+00:03:16,720 --> 00:03:19,720
+But I also joke with my colleagues you know, we push up our glasses 
+
+59
+00:03:19,720 --> 00:03:22,720
+because you know we're like "oh... What's ATC doing?"
+
+60
+00:03:22,720 --> 00:03:25,720
+and "What's happening with that runaway closer in Montreal?"
+
+61
+00:03:25,720 --> 00:03:28,720
+and "What altitude is the tropopause at?" You know
+
+62
+00:03:28,720 --> 00:03:34,120
+But seriously though, we get to problem solve all day.
+
+63
+00:03:34,120 --> 00:03:37,120
+You always get to figure out new ways to do things, because no two
+
+64
+00:03:37,120 --> 00:03:42,280
+situations are the same. And you really get to navigate new territory
+
+65
+00:03:42,280 --> 00:03:46,200
+all the time and it's so rewarding. You make decisions and things
+
+66
+00:03:46,200 --> 00:03:49,200
+turn out and it's very, very rewarding.
+
+67
+00:03:49,200 --> 00:03:52,200
+Iris: If you could ask your role model in the industry one thing,
+
+68
+00:03:52,200 --> 00:03:55,200
+what would you ask them?
+
+69
+00:03:55,200 --> 00:03:58,200
+Allison: I think to kind of take this into two veins,
+
+70
+00:03:58,200 --> 00:04:01,200
+it would be you probably around mentorship a little bit, you know.
+
+71
+00:04:01,200 --> 00:04:04,200
+Is there anything that I'm missing? What are my blind spots? 
+
+72
+00:04:04,200 --> 00:04:07,200
+You know, what don't I know that I wish I knew?
+
+73
+00:04:07,200 --> 00:04:10,200
+And then it's kind of on the failure side.
+
+74
+00:04:10,200 --> 00:04:15,160
+Because you know, we all fall down from time so I would want to know 
+
+75
+00:04:15,160 --> 00:04:18,160
+you know, "Did you ever trip? What caught you off guard and
+
+76
+00:04:18,160 --> 00:04:21,160
+how did you get back up again?"
+
+77
+00:04:21,160 --> 00:04:24,160
+Iris: Those are great questions! And if you could share one piece
+
+78
+00:04:24,160 --> 00:04:27,160
+of advice on building success, what would that be?
+
+79
+00:04:27,160 --> 00:04:31,200
+Allison: Again I'm sorry, I have two but I promise to make it quick!
+
+80
+00:04:31,200 --> 00:04:34,200
+I would say the importance of diverse experiences.
+
+81
+00:04:34,200 --> 00:04:40,200
+There is no one path forward, and just get out there and try everything.
+
+82
+00:04:40,200 --> 00:04:45,240
+But you know, the aviation industry can be a little bit intimidating 
+
+83
+00:04:45,240 --> 00:04:48,240
+and you know, don't be scared about the things you don't know,
+
+84
+00:04:48,240 --> 00:04:51,240
+you just simply don't know them yet.
+
+85
+00:04:51,240 --> 00:04:54,240
+Iris: That is great advice, I'm going to take that advice.
+
+86
+00:04:54,240 --> 00:04:56,600
+Thank you so much for joining us today, it was really great getting 
+
+87
+00:04:56,600 --> 00:04:59,600
+to understand a bit more about what you do with Porter Airlines!
+:)
+
+88
+00:04:59,600 --> 00:05:02,000
+Allison: Thanks so much.
+:) 
